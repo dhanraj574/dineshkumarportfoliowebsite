@@ -1,7 +1,5 @@
 .app{
   
-  display: inline-flex;
-  flex-direction: column;
   
 }
 @media(min-width:1023px){
