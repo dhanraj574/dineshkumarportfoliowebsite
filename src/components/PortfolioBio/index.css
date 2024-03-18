@@ -1,0 +1,327 @@
+@media(width<768px){
+  .lg-portfolio-profile{
+         display: none;
+    }
+    .portfoliobio-section{
+        margin-top: 90px;
+        gap:24px;
+    }
+    .sm-portfoliobio-profile{
+        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap:24px;
+    }
+    .portfoliobio-img{
+        width: 61px;
+        height: 60px;
+        align-self: center;
+        border-radius: 50px;   
+    
+    }
+
+    .portfoliobio-available{
+        align-self: center;
+    }
+    .available-text{
+        margin-top: 0px;
+        font-family: Roboto Mono;
+        font-size: 20px;
+        font-weight: 300;
+        line-height: 16px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #000000;
+
+
+    }
+    .portfoliobio-bio{
+        display: flex;
+        flex-direction: column;
+        padding:0px 19px 0px;
+        gap:24px;
+    }
+    .portfolio-bio{
+        font-family: Roboto Mono;
+        font-size: 10px;
+        font-weight: 300;
+        line-height: 12px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #000000;
+       
+    }
+    .bio-highlights{
+        font-family: Roboto Mono;
+        font-size: 8px;
+        font-weight: 500;
+        line-height: 12px;
+        letter-spacing: 0em;
+        text-align: center;
+      color: #005809;
+
+    }
+    .portfolio-links{
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       
+       gap:24px;
+    }
+    .portfolio-hire{
+        max-width:263px;
+        max-height: 64px;
+        
+        align-self: center;
+       padding: 16px 64px 16px 64px;
+       background-color:#1E4082;
+       color:#ffffff;
+        border-radius: 60px;
+        font-family: Roboto Mono;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: left;
+        text-decoration: none;
+
+    }
+    .portfolio-sociallink{
+        display: flex;
+        justify-content: space-between;
+        padding:0px 4px 0px ;
+        gap:10px;
+        align-self:center ;
+    }
+    .portfolio-link{
+        max-width: 115px;
+        max-height: 28px;
+        padding: 8px 20px 8px 20px;
+        border-radius: 60px;  
+        border: 1px solid #1E4082;
+        font-family: Roboto Mono;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 12px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #1E4082;
+        text-decoration: none;
+  
+    }
+}
+
+@media(width>=767px) and (width<=1024px){
+    
+    .sm-portfoliobio-profile{
+        display: none;
+    }
+    .lg-portfolio-profile{
+        
+        
+    }
+    .portfoliobio-section{
+        padding:30px;
+        padding-top: 114px;
+        display: flex;
+        justify-content: space-between;
+        gap:40px;
+        
+       
+        align-self: center;
+    }
+    .portfolio-text{
+        font-family: Inter;
+        font-size: 60px;
+        font-weight: 700;
+        line-height: 60px;
+        letter-spacing: 0em;
+        text-align: left;
+        
+        height: 120px;
+
+
+    }
+    .portfoliobio-bio{
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+        max-width:865px;
+        gap:20px;
+        
+    }
+    .portfolio-bio{
+        font-family: Roboto Mono;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 29px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #000000
+    }
+    .bio-highlights{
+        font-family: Roboto Mono;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 29px;
+        letter-spacing: 0em;
+        text-align: left;
+       color: #005809;
+
+    }
+    .portfolio-links{
+        display: flex;
+        justify-content: space-evenly;
+        
+        gap:10px;
+    }
+    .portfolio-hire{
+        width:80px;
+        max-height: 64px;
+        flex-grow: 1;
+        align-self: center;
+        padding: 16px 18px 16px 18px;
+       background-color:#1E4082;
+       color:#ffffff;
+        border-radius: 40px;
+        font-family: Roboto Mono;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 15px;
+        letter-spacing: 0em;
+        text-align: center;
+        text-decoration: none;
+    }
+    .portfolio-sociallink{
+        display: flex;
+        justify-content: space-evenly;
+        flex-grow: 1;
+        gap:10px;
+    }
+    .portfolio-link{
+        width:80px;
+        max-height: 64px;
+        flex-grow: 1;
+        align-self: center;
+        padding: 16px 18px 16px 18px;
+       color:#1E4082;
+       background-color:#ffffff;
+        border-radius: 40px;
+        border:2px solid #1E4082;
+        font-family: Roboto Mono;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 15px;
+        letter-spacing: 0em;
+        text-align: center;
+        text-decoration: none;
+    }   
+}
+
+@media(width >= 1024px){
+    .sm-portfoliobio-profile{
+        display: none;
+    }
+    .lg-portfolio-profile{
+       
+        
+    }
+    .portfoliobio-section{
+        padding:30px;
+        padding-top: 114px;
+        display: flex;
+        justify-content: space-between;
+        gap:40px;
+        
+        
+        
+    }
+    .portfolio-text{
+        font-family: Inter;
+        font-size: 60px;
+        font-weight: 700;
+        line-height: 60px;
+        letter-spacing: 0em;
+        text-align: left;
+        width:303px;
+        height: 120px;
+
+
+    }
+    .portfoliobio-bio{
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+        max-width:865px;
+        gap:20px;
+    }
+    .portfolio-bio{
+        font-family: Roboto Mono;
+        font-size: 24px;
+        font-weight: 300;
+        line-height: 29px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #000000;
+        margin-right: 30px;
+
+    }
+    .bio-highlights{
+        font-family: Roboto Mono;
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 29px;
+        letter-spacing: 0em;
+        text-align: left;
+       color: #005809;
+
+    }
+    .portfolio-links{
+        display: flex;
+        justify-content: space-evenly;
+        
+        gap:10px;
+    }
+    .portfolio-hire{
+        width:140px;
+        max-height: 64px;
+        flex-grow: 1;
+        align-self: center;
+        padding: 16px 24px 16px 24px;
+       background-color:#1E4082;
+       color:#ffffff;
+        border-radius: 40px;
+        font-family: Roboto Mono;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 25px;
+        letter-spacing: 0em;
+        text-align: center;
+        text-decoration: none;
+    }
+    .portfolio-sociallink{
+        display: flex;
+        justify-content: space-evenly;
+        flex-grow: 1;
+        gap: 10px;
+    }
+    .portfolio-link{
+        wwidth:140px;
+        max-height: 64px;
+        flex-grow: 1;
+        align-self: center;
+        padding: 16px 24px 16px 24px;
+       color:#1E4082;
+       background-color:#ffffff;
+        border-radius: 40px;
+        border:2px solid #1E4082;
+        font-family: Roboto Mono;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 25px;
+        letter-spacing: 0em;
+        text-align: center;
+        text-decoration: none;
+    }   
+}

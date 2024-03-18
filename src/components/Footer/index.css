@@ -1,0 +1,75 @@
+@media(max-width:1024px){
+    .lg-footer{
+        display: none;
+    }
+    .footer-section{
+        margin-bottom: 150px;
+        display: flex;
+        flex-direction: column;
+    }
+    .sm-footer{
+        align-self: center;
+    }
+    .sm-footer-hire{
+        max-width: 263px;
+        max-height: 64px;
+        
+        padding: 16px 64px 16px 64px;
+        background-color: #1E4082;
+        color: #ffffff;
+        border-radius: 60px;
+        font-family: Roboto Mono;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: left;
+        text-decoration: none;
+        
+    }
+}
+
+@media(min-width:1024px){
+    .sm-footer{
+        display: none;
+    }
+    .footer-section{
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-bottom: 150px;
+    }
+    .lg-footer{
+        display: flex;
+        justify-content: space-between;
+    }
+    .contact{
+        font-family: Roboto Mono;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 16px;
+        letter-spacing: 0em;
+        text-align: left;
+        align-self: center;
+    }
+    .phonenumber{
+        font-family: Roboto Mono;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 16px;
+        letter-spacing: 0em;
+        text-align: left;
+        color:#000000;
+        align-self: center;
+    }
+    .sm-footer-gmail{
+        font-family: Roboto Mono;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 16px;
+        letter-spacing: 0em;
+        text-align: left;
+        color:#000000;
+        align-self: center;
+    }
+   
+}
