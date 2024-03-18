@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dineshkumarportfoliowebsite/static/css/main.f2d76402.css",
+    "main.js": "/dineshkumarportfoliowebsite/static/js/main.b1474d8a.js",
+    "static/js/453.1407b060.chunk.js": "/dineshkumarportfoliowebsite/static/js/453.1407b060.chunk.js",
+    "static/media/profile.png": "/dineshkumarportfoliowebsite/static/media/profile.3b44448ab2f1aeadeb0c.png",
+    "static/media/Archi.png": "/dineshkumarportfoliowebsite/static/media/Archi.490bedb38a6355f297e2.png",
+    "static/media/eko.png": "/dineshkumarportfoliowebsite/static/media/eko.d6c9efd52aa81c974988.png",
+    "static/media/Rapid match.png": "/dineshkumarportfoliowebsite/static/media/Rapid match.05dd460a96d2f8b32701.png",
+    "static/media/dashboard.png": "/dineshkumarportfoliowebsite/static/media/dashboard.1e991c83413c05f1a6f6.png",
+    "static/media/brent.png": "/dineshkumarportfoliowebsite/static/media/brent.8c405933c714a5c43060.png",
+    "static/media/calcious.png": "/dineshkumarportfoliowebsite/static/media/calcious.b64f19e49fa239408d49.png",
+    "index.html": "/dineshkumarportfoliowebsite/index.html",
+    "main.f2d76402.css.map": "/dineshkumarportfoliowebsite/static/css/main.f2d76402.css.map",
+    "main.b1474d8a.js.map": "/dineshkumarportfoliowebsite/static/js/main.b1474d8a.js.map",
+    "453.1407b060.chunk.js.map": "/dineshkumarportfoliowebsite/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d76402.css",
+    "static/js/main.b1474d8a.js"
+  ]
+}
