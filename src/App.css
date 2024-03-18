@@ -1,7 +1,8 @@
 .app{
-  display: flex;
+  
+  display: inline-flex;
   flex-direction: column;
-  gap:80px;
+  
 }
 @media(min-width:1023px){
   .navbar{

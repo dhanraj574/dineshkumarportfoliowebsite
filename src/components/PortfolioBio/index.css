@@ -3,7 +3,7 @@
          display: none;
     }
     .portfoliobio-section{
-        margin-top: 90px;
+        margin-top: 150px;
         gap:24px;
     }
     .sm-portfoliobio-profile{
@@ -123,7 +123,7 @@
     }
     .portfoliobio-section{
         padding:30px;
-        padding-top: 114px;
+        margin-top: 80px;
         display: flex;
         justify-content: space-between;
         gap:40px;
@@ -229,7 +229,7 @@
     }
     .portfoliobio-section{
         padding:30px;
-        padding-top: 114px;
+        margin-top: 80px;
         display: flex;
         justify-content: space-between;
         gap:40px;

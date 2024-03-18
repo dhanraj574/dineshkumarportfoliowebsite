@@ -88,7 +88,7 @@
         right:0px;
         top:0px;
         height:60px;
-        padding:30px;
+        padding:25px;
     }
 
     .lg-navbar-profile{
@@ -151,7 +151,7 @@
         right:0px;
         top:0px;
         height:60px;
-        padding:30px;
+        padding:25px;
     }
 
     .lg-navbar-profile{
@@ -179,7 +179,7 @@
     .lg-navbar-name{
         color:#000000;
         font-family: Roboto Mono;
-        font-size: 20px;
+        font-size: 18px;
         font-weight: 500;
         line-height: 16px;
         letter-spacing: 0em;
@@ -189,7 +189,7 @@
 
     .lg-navbar-bottom-link{
         font-family: Roboto Mono;
-        font-size: 20px;
+        font-size: 18px;
         font-weight: 500;
         line-height: 16px;
         letter-spacing: 0em;
