@@ -72,21 +72,21 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-<<<<<<< HEAD
+
+
         align-self: center;
-=======
->>>>>>> 137d22e96661a2c5e41f7a25e2823ca1c400ee25
+
         gap:30px;
         
     }
     .project-item{
-<<<<<<< HEAD
+
        
     align-self: center;
-=======
-       align-self:center;
+
        
->>>>>>> 137d22e96661a2c5e41f7a25e2823ca1c400ee25
+       
+
         
     }
 }
