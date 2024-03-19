@@ -52,7 +52,7 @@
     .projects-img{
         width:100%;
         border-radius: 32px;
-        
+        align-self: center;
     }
     .projects-heading{
         font-family: Roboto Mono;
