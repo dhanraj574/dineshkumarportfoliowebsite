@@ -6,6 +6,7 @@
     .lg-navbar-cont{
         display: none;
     }
+
     .sm-navbar-header{
         margin:0px;
         background:#1E4082;
@@ -153,7 +154,9 @@
         height:60px;
         padding:25px;
     }
-
+    .navbar-section{
+        order:1;
+    }
     .lg-navbar-profile{
         display: flex;
         align-self: center;

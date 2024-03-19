@@ -1,6 +1,7 @@
 @media(max-width:1023px){
     .skills-section{
         margin-top:50px;
+        
     }
     .skills-heading{
         margin-bottom: 20px;
@@ -47,7 +48,7 @@
 
 @media(min-width:1023px){
     .skills-section{
-        
+       order:3;
         margin-top:50px;
     }
     .skills-heading{

@@ -39,6 +39,7 @@
         padding-left: 30px;
         padding-right: 30px;
         margin-bottom: 150px;
+        order: 5;
     }
     .lg-footer{
         display: flex;

@@ -5,7 +5,7 @@
         flex-direction: column;
         justify-content: center;
         padding: 20px;
-       
+        
     }
     .projects-img{
 
@@ -46,6 +46,7 @@
         flex-direction: column;
         padding: 30px;
         gap:20px;
+        
     }
     .projects-img{
         width:100%;
@@ -69,7 +70,7 @@
         padding: 0px;
         display: flex;
         flex-wrap: wrap;
-        justify-content: space-evenly;
+        justify-content: space-between;
         gap:20px;
         align-self: center;
     }
@@ -78,4 +79,9 @@
        
         
     }
+}
+@media(min-width:1024px){
+   .projects-section{
+        order:4;
+   }
 }
