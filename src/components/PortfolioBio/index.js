@@ -1,5 +1,5 @@
 import profile from '../../assets/profile.png'
-import availabletohire from '../../assets/availabletohire.png'
+
 import './index.css'
 
 const PortfolioBio = () =>{
