@@ -71,12 +71,12 @@
         padding: 0px;
         display: flex;
         flex-wrap: wrap;
-        justify-content: space-around;
-        gap:20px;
+        justify-content: center;
+        gap:30px;
         
     }
     .project-item{
-       
+       align-self:center;
        
         
     }
