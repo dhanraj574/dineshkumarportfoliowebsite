@@ -1,35 +1,36 @@
 .app{
   display: inline-flex;
   flex-direction: column;
+  padding:0px;
 }
 @media(min-width:1023px){
   .navbar{
-    flex-grow: 1;
+   
     margin:0px;
     padding:0px;
     order:1;
   }
   .portfolio{
-    flex-grow: 1;
+    
     margin:0px;
     padding:0px;
     order:2;
   }
   .projects{
-    flex-grow: 1;
+   
     margin:0px;
     padding:0px;
     order:4
   }
   .skills{
-    flex-grow: 1;
+   
     margin:0px;
     padding:0px;
     order:3;
    
   }
   .footer{
-    flex-grow: 1;
+    
     margin:0px;
     padding:0px;
     order:5;

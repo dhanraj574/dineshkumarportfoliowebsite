@@ -3,6 +3,7 @@
          display: none;
     }
     .portfoliobio-section{
+        flex-grow: 1;
         margin-top: 150px;
         gap:24px;
     }

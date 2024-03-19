@@ -8,38 +8,34 @@ import './App.css';
 
 function App() {
   return(
-    
-        <div className="app">
+     <div className='app'>
+      <Navbar />
           
-          <div className='navbar'>
-          <Navbar />
-          </div>
           
           
               
-          <div  className='portfolio'>
+         
            <PortfolioBio />
-           </div>
+          
 
-           <div className='projects'>
+         
            <Projects  />
-           </div>
+         
 
-           <div className="skills">
+          
            <Skills  />
-           </div>
-           
+        
 
-          <div className='footer'>
+         
           <Footer  />
+         
+          
           </div>
-          
-          
             
             
             
            
-        </div>
+       
   
 
   )
